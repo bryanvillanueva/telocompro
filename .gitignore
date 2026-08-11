@@ -1,0 +1,19 @@
+# Documentación interna del negocio: costos, márgenes, punto de equilibrio.
+# No va al repositorio público.
+data/
+
+# Configuración local del entorno de desarrollo
+.claude/
+
+# Fuentes originales de imagen. Pesan ~45 MB y el sitio no las sirve:
+# lo que se publica son las versiones optimizadas de img/web/*.webp
+img/*.jpg
+img/*.jpeg
+img/*.png
+img/web/products/
+img/web/hero.webp
+
+# Sistema
+.DS_Store
+Thumbs.db
+desktop.ini
